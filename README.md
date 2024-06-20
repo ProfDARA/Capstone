@@ -30,3 +30,4 @@ Repo URL :
 - (ML) M189D4KY1954– Ahmad Habibi – Universitas Bengkulu - [Active]
   
 Repo URL
+- Model : https://drive.google.com/drive/folders/1rjc-s8kskb6CxtqtxHdI5eClXyehV3_W 
