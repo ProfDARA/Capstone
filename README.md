@@ -6,7 +6,7 @@ Member
 - (CC)  C012D4KY0048 – Fakhri Fitra Perdana – Universitas Telkom - [Active]
 
 Repo URL : 
-- Repo Link     : https://github.com/ProfDARA/ProfDARA-C241-PR574-Backend/tree/finaldeploy
+- Repo backend Link     : https://github.com/ProfDARA/ProfDARA-C241-PR574-Backend/tree/finaldeploy
                     (for local deploy, just hit NPM install, then NPM run start , for cloud deploy )
                     (for cloud deploy, gcloud auth login, then just hit ; gcloud builds submit --tag asia-southeast2-docker.pkg.dev/${GOOGLE_CLOUD_PROJECT}/backendbeta/betabackend-api:latest , gcloud run deploy --image  asia-southeast2-                        docker.pkg.dev/${GOOGLE_CLOUD_PROJECT}/backendbeta/betabackend-api:latest , or you can directly using gcloud run deploy c241pr574backend --source . --region asia-southeast2 --allow-unauthenticated --port 3000 )
 - Cloud JSON File : https://storage.googleapis.com/c241pr574model/model.json
