@@ -39,5 +39,4 @@ Repo URL
 - kaggle dataset URL: https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset/data
 - work directory repo URL https://drive.google.com/drive/folders/1ay3RLPj0k1zjYInlOP_Yan_nVV3VMJcr
 - .ipynb file : https://drive.google.com/file/d/1r63Efjrr2YISQ9_NOnRAa5n2iNjvGBQ5/view 
-- model checkpoint : https://drive.google.com/file/d/1b9zC0pMsF4MkUzpxQRVgIBpj4ovqhsN8/view?usp=drive_link
 - Converted JSON model : https://drive.google.com/drive/folders/1rjc-s8kskb6CxtqtxHdI5eClXyehV3_W
