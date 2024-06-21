@@ -31,7 +31,7 @@ Repo URL :
 Members
 - (MD) A314D4KY4482 – Muhammad Dzaki Al Fatih – Universitas Singaperbangsa Karawang - [Active]
   
-Repo URL : 
+Repo URL : https://github.com/ProfDARA/C241-PR574-MobileDev.git
 
 # ML Team 
 - (ML) M391D4KY1509 – Apolonius Marko Pier – Universitas Sanata Dharma - [Active]
