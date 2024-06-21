@@ -16,7 +16,7 @@ Repo URL :
 - On Line Backend API Link  : https://c241pr574backend-xd67kjleiq-et.a.run.app
   
 - API Documentation : https://docs.google.com/document/d/1FKgFW2tZd1N17fwF4-Qk1tR150dK2Fsi/edit?usp=drive_link&ouid=115398545235147422901&rtpof=true&sd=true
-- Postman File : https://drive.google.com/file/d/1VgbKj1r5Felm-EbuW0Yg20MeX9O99xIH/view?usp=sharing (import collection then test the feature by choosing and clicking send)
+- Postman File : https://drive.google.com/file/d/1VgbKj1r5Felm-EbuW0Yg20MeX9O99xIH/view?usp=sharing (import collection then test the feature by choosing items and clicking send)
   
 - repo web-app test feature https://github.com/ProfDARA/ProfDARA-C241-PR574-Backend/tree/emergencyappdeploy
   (you can import it in terminal, gcloud auth login then run gcloud app deploy)
