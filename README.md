@@ -39,4 +39,6 @@ Repo URL :
   
 Repo URL
 - work directory repo URL ( along with .ipynbfiles ) https://drive.google.com/drive/folders/1ay3RLPj0k1zjYInlOP_Yan_nVV3VMJcr
-- Model JSON : https://drive.google.com/drive/folders/1rjc-s8kskb6CxtqtxHdI5eClXyehV3_W
+- .ipynb file : https://github.com/ProfDARA/C241-PR574-MachineLearning.git
+- model checkpoint : https://drive.google.com/file/d/1b9zC0pMsF4MkUzpxQRVgIBpj4ovqhsN8/view?usp=drive_link
+- Converted JSON model : https://drive.google.com/drive/folders/1rjc-s8kskb6CxtqtxHdI5eClXyehV3_W
