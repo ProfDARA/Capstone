@@ -1,7 +1,5 @@
 # Capstone Project of C241-PR574
 
-(https://github.com/users/ProfDARA/projects/2) 
-
 # CC Team
 Member
 - (CC)  C013D4KY0859 – Danang Agung Restu Aji – Universitas Terbuka - [Active]
