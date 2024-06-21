@@ -9,12 +9,15 @@ Member
 
 Repo URL : 
 - Repo Link     : https://github.com/ProfDARA/ProfDARA-C241-PR574-Backend/tree/finaldeploy
-                    (for local deploy, just hit NPM install, then NPM run start)
+                    (for local deploy, just hit NPM install, then NPM run start , for cloud deploy )
+                    (for cloud deploy, gcloud auth login, then just hit gcloud run deploy --image  asia-southeast2-docker.pkg.dev/${GOOGLE_CLOUD_PROJECT}/backendbeta/betabackend-api:latest )
 - Backend Link  : https://c241pr574backend-xd67kjleiq-et.a.run.app
 - API Documentation : https://docs.google.com/document/d/1FKgFW2tZd1N17fwF4-Qk1tR150dK2Fsi/edit?usp=drive_link&ouid=115398545235147422901&rtpof=true&sd=true
 - Postman File : https://drive.google.com/file/d/1VgbKj1r5Felm-EbuW0Yg20MeX9O99xIH/view?usp=sharing
-- Web App untuk tes fitur : https://c241pr574.et.r.appspot.com/
-    akun : test@gmail.com pass: 123456
+- repo web-app tes fitur https://github.com/ProfDARA/ProfDARA-C241-PR574-Backend.git
+  (you can import it in terminal, gcloud auth login then run gcloud app deploy)
+- Web App for a feature test : https://c241pr574.et.r.appspot.com/
+    account test : test@gmail.com pass: 123456
 
 
 
@@ -31,5 +34,5 @@ Repo URL :
 - (ML) M189D4KY1954– Ahmad Habibi – Universitas Bengkulu - [Active]
   
 Repo URL
+- work directory repo URL ( along with .ipynbfiles ) https://drive.google.com/drive/folders/1ay3RLPj0k1zjYInlOP_Yan_nVV3VMJcr
 - Model JSON : https://drive.google.com/drive/folders/1rjc-s8kskb6CxtqtxHdI5eClXyehV3_W
-- https://drive.google.com/drive/folders/1ay3RLPj0k1zjYInlOP_Yan_nVV3VMJcr
